@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+body{font-family: 'Noto Sans JP', sans-serif;}
+
 .github{
     width: 30px;
 }
