@@ -34,6 +34,10 @@ li{
     padding: 3px;
 }
 
+a{
+    padding: 7px;
+}
+
 .subtitle{
     font-size: 1.5em;
     border-bottom:solid 2px;
